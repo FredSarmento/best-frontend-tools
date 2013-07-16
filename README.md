@@ -141,6 +141,7 @@ List of Best Frontend Tools 2013 around the interwebs.
 + http://www.dropbox.com
 + http://drive.google.com
 + http://retinize.it
++ https://github.com/JamieMason/ImageOptim-CLI
 
 
 
