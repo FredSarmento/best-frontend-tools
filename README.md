@@ -18,6 +18,7 @@ List of Best Frontend Tools 2013 around the interwebs.
 * http://fabien-d.github.com/alertify.js
 * http://yuilibrary.com/projects/yui3
 * http://alloyui.com
+* http://www.javascriptoo.com/
 
 
 
@@ -36,6 +37,7 @@ List of Best Frontend Tools 2013 around the interwebs.
 + http://responsive.victorcoulon.fr
 + http://www.spritecow.com
 + http://icomoon.io
++ http://json2html.com
 
 
 #### Referencing
@@ -138,6 +140,7 @@ List of Best Frontend Tools 2013 around the interwebs.
 + http://www.trello.com
 + http://www.dropbox.com
 + http://drive.google.com
++ http://retinize.it
 
 
 
